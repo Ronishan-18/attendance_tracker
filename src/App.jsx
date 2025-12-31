@@ -2,7 +2,7 @@ import './App.css'
 import './index.css';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Dashboard from './pages/dashboard'
-import AttendancePage from './pages/attendencepage'
+import AttendancePage from './pages/attendancepage'
 import NotFound from './pages/notfound'
 
 function App() {
